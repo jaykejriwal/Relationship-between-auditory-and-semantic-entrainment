@@ -1,5 +1,5 @@
 # Relationship between auditory and semantic entrainment
-Python program for understanding the relationship between auditory and semantic entrainment
+Python program for understanding the relationship between auditory and semantic entrainment.
 
 ## Dataset
 We utilized state-of-the-art DNN embeddings such as BERT and TRIpLet Loss network (TRILL) vectors to extract features for measuring semantic and auditory similarities of turns within dialogues in two comparable spoken corpora of two different languages, namely Columbia Games corpus and Slovak Games corpus.
