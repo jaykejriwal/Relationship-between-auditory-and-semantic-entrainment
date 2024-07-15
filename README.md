@@ -4,7 +4,7 @@ Python program for understanding the relationship between auditory and semantic 
 ## Dataset
 We utilized state-of-the-art DNN embeddings such as BERT and TRIpLet Loss network (TRILL) vectors to extract features for measuring semantic and auditory similarities of turns within dialogues in two comparable spoken corpora of two different languages, namely Columbia Games corpus and Slovak Games corpus. 
 
-The input folder shows the necessary files required for processing.
+The input folder shows the sample files required for processing.
 
 Columbia Games corpus can be downloaded from https://catalog.ldc.upenn.edu/LDC2021S02
 
