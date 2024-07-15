@@ -15,7 +15,7 @@ tensorflow (pip install tensorflow)
 
 textgrid (Install textgrid from https://github.com/kylebgorman/textgrid)
 
-TRILL vectors (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
+TRILL vectors model (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
 ## Execution instruction
 Two Jupyter Notebook files are uploaded. Each file presents a step-by-step procedure for extracting features and measuring entrainment in different languages. 
