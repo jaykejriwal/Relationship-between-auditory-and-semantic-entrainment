@@ -6,6 +6,10 @@ We utilized state-of-the-art DNN embeddings such as BERT and TRIpLet Loss networ
 
 The input folder shows the necessary files required for processing.
 
+Columbia Games corpus can be downloaded from https://catalog.ldc.upenn.edu/LDC2021S02
+
+Slovak Games corpus is available upon request by mailing it to the authors
+
 ## Required Software
 ffmpeg (Download from https://www.ffmpeg.org/download.html)
 
