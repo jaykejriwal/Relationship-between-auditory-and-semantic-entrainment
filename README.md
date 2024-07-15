@@ -6,9 +6,13 @@ We utilized state-of-the-art DNN embeddings such as BERT and TRIpLet Loss networ
 
 ## Required Software
 ffmpeg (Download from https://www.ffmpeg.org/download.html)
+
 sentence-transformers (pip install sentence-transformers)
+
 tensorflow (pip install tensorflow)
+
 textgrid (Install textgrid from https://github.com/kylebgorman/textgrid)
+
 TRILL vectors (Download from https://tfhub.dev/google/nonsemantic-speech-benchmark/trill/3)
 
 ## Execution instruction
